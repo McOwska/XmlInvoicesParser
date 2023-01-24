@@ -4,6 +4,7 @@ import javax.xml.bind.annotation.*;
 
 @XmlRootElement(name = "tns:AdresPodmiotu")
 
+
 public class AdresPodmiotu {
     @XmlElement(name = "tns:KodKraju")
     private static String KodKraju = "PL";
