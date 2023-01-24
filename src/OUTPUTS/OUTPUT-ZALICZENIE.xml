@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<invoices>
+    <invoice>
+        <name>"Firma 1 SP. Z O.O."</name>
+        <adress>"UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW"</adress>
+        <NIP>"634-27-26-447"</NIP>
+        <dateOfIssue>2020-10-09T00:00:00+02:00</dateOfIssue>
+        <dateOfSale>2020-10-09T00:00:00+02:00</dateOfSale>
+        <invoiceNumber>"1/2023"</invoiceNumber>
+        <netPriceSum>1000.0</netPriceSum>
+        <grossPriceSum>1230.0</grossPriceSum>
+        <itemList>
+            <item>
+                <id>1</id>
+                <name>"Firma 1 SP. Z O.O."</name>
+                <adress>"UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW"</adress>
+                <NIP>"634-27-26-447"</NIP>
+                <dateOfIssue>2020-10-09T00:00:00+02:00</dateOfIssue>
+                <dateOfSale>2020-10-09T00:00:00+02:00</dateOfSale>
+                <invoiceNumber>"1/2023"</invoiceNumber>
+                <title>"Faktura 1,, pozycja 1"</title>
+                <quantity>1.0</quantity>
+                <unitPrice>1000.0</unitPrice>
+                <taxRate>23</taxRate>
+                <taxAmount>230.0</taxAmount>
+                <netPrice>1000.0</netPrice>
+                <grossPrice>1230.0</grossPrice>
+                <netPriceSum>1000.0</netPriceSum>
+                <grossPriceSum>1230.0</grossPriceSum>
+            </item>
+        </itemList>
+    </invoice>
+    <invoice>
+        <name>"Firma 2 Sp. z o.o"</name>
+        <adress>"AL. A. Mickiewicza 141, 31-127 Kraków"</adress>
+        <NIP>"113-29-95-753 "</NIP>
+        <dateOfIssue>2020-10-14T00:00:00+02:00</dateOfIssue>
+        <dateOfSale>2020-10-14T00:00:00+02:00</dateOfSale>
+        <invoiceNumber>"2/2023"</invoiceNumber>
+        <netPriceSum>2000.0</netPriceSum>
+        <grossPriceSum>2460.0</grossPriceSum>
+        <itemList>
+            <item>
+                <id>2</id>
+                <name>"Firma 2 Sp. z o.o"</name>
+                <adress>"AL. A. Mickiewicza 141, 31-127 Kraków"</adress>
+                <NIP>"113-29-95-753 "</NIP>
+                <dateOfIssue>2020-10-14T00:00:00+02:00</dateOfIssue>
+                <dateOfSale>2020-10-14T00:00:00+02:00</dateOfSale>
+                <invoiceNumber>"2/2023"</invoiceNumber>
+                <title>"Faktura 2, pozycja 1"</title>
+                <quantity>1.0</quantity>
+                <unitPrice>1000.0</unitPrice>
+                <taxRate>23</taxRate>
+                <taxAmount>230.0</taxAmount>
+                <netPrice>1000.0</netPrice>
+                <grossPrice>1230.0</grossPrice>
+                <netPriceSum>2000.0</netPriceSum>
+                <grossPriceSum>2460.0</grossPriceSum>
+            </item>
+            <item>
+                <id>3</id>
+                <name>"Firma 2 Sp. z o.o"</name>
+                <adress>"AL. A. Mickiewicza 141, 31-127 Kraków"</adress>
+                <NIP>"113-29-95-753 "</NIP>
+                <dateOfIssue>2020-10-14T00:00:00+02:00</dateOfIssue>
+                <dateOfSale>2020-10-14T00:00:00+02:00</dateOfSale>
+                <invoiceNumber>"2/2023"</invoiceNumber>
+                <title>"Faktura 2, pozycja 2"</title>
+                <quantity>1.0</quantity>
+                <unitPrice>1000.0</unitPrice>
+                <taxRate>23</taxRate>
+                <taxAmount>230.0</taxAmount>
+                <netPrice>1000.0</netPrice>
+                <grossPrice>1230.0</grossPrice>
+                <netPriceSum>2000.0</netPriceSum>
+                <grossPriceSum>2460.0</grossPriceSum>
+            </item>
+        </itemList>
+    </invoice>
+</invoices>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>"Firma 1 SP. Z O.O."</name>
+        <adress>"UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW"</adress>
+        <NIP>"634-27-26-447"</NIP>
+        <dateOfIssue>2020-10-09T00:00:00+02:00</dateOfIssue>
+        <dateOfSale>2020-10-09T00:00:00+02:00</dateOfSale>
+        <invoiceNumber>"1/2023"</invoiceNumber>
+        <title>"Faktura 1,, pozycja 1"</title>
+        <quantity>1.0</quantity>
+        <unitPrice>1000.0</unitPrice>
+        <taxRate>23</taxRate>
+        <taxAmount>230.0</taxAmount>
+        <netPrice>1000.0</netPrice>
+        <grossPrice>1230.0</grossPrice>
+        <netPriceSum>1000.0</netPriceSum>
+        <grossPriceSum>1230.0</grossPriceSum>
+    </item>
+    <item>
+        <id>2</id>
+        <name>"Firma 2 Sp. z o.o"</name>
+        <adress>"AL. A. Mickiewicza 141, 31-127 Kraków"</adress>
+        <NIP>"113-29-95-753 "</NIP>
+        <dateOfIssue>2020-10-14T00:00:00+02:00</dateOfIssue>
+        <dateOfSale>2020-10-14T00:00:00+02:00</dateOfSale>
+        <invoiceNumber>"2/2023"</invoiceNumber>
+        <title>"Faktura 2, pozycja 1"</title>
+        <quantity>1.0</quantity>
+        <unitPrice>1000.0</unitPrice>
+        <taxRate>23</taxRate>
+        <taxAmount>230.0</taxAmount>
+        <netPrice>1000.0</netPrice>
+        <grossPrice>1230.0</grossPrice>
+        <netPriceSum>2000.0</netPriceSum>
+        <grossPriceSum>2460.0</grossPriceSum>
+    </item>
+    <item>
+        <id>3</id>
+        <name>"Firma 2 Sp. z o.o"</name>
+        <adress>"AL. A. Mickiewicza 141, 31-127 Kraków"</adress>
+        <NIP>"113-29-95-753 "</NIP>
+        <dateOfIssue>2020-10-14T00:00:00+02:00</dateOfIssue>
+        <dateOfSale>2020-10-14T00:00:00+02:00</dateOfSale>
+        <invoiceNumber>"2/2023"</invoiceNumber>
+        <title>"Faktura 2, pozycja 2"</title>
+        <quantity>1.0</quantity>
+        <unitPrice>1000.0</unitPrice>
+        <taxRate>23</taxRate>
+        <taxAmount>230.0</taxAmount>
+        <netPrice>1000.0</netPrice>
+        <grossPrice>1230.0</grossPrice>
+        <netPriceSum>2000.0</netPriceSum>
+        <grossPriceSum>2460.0</grossPriceSum>
+    </item>
+</items>

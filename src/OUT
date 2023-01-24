@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<output>
+    <Naglowek>
+        <KodFormularza>JPK_FA (3)</KodFormularza>
+        <WariantFormularza>3</WariantFormularza>
+        <CelZlozenia>1</CelZlozenia>
+        <DataWytworzeniaJPK>3921-11-28T00:00:00+01:00</DataWytworzeniaJPK>
+        <DataOd>3920-11-01T00:00:00+01:00</DataOd>
+        <DAtaDo>3921-01-31T00:00:00+01:00</DAtaDo>
+        <KodUrzedu>1208</KodUrzedu>
+    </Naglowek>
+    <Podmiot1>
+        <IdentyfikatorPodmiotu>
+            <NIP>6762484560</NIP>
+            <PelnaNazwa>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</PelnaNazwa>
+        </IdentyfikatorPodmiotu>
+        <Adres>
+            <KodKraju>PL</KodKraju>
+            <Wojewodztwo>małopolskie</Wojewodztwo>
+            <Powiat>m. Krakow</Powiat>
+            <Gmina>Kraków</Gmina>
+            <Ulica>ul. Feliksa Radwańskiego</Ulica>
+            <NrDomu>15</NrDomu>
+            <NrLokalu>1</NrLokalu>
+            <Miejscowosc>Kraków</Miejscowosc>
+            <KodPocztowy>30-065</KodPocztowy>
+        </Adres>
+    </Podmiot1>
+    <FakturaWierszList>
+        <FacturaWiersz>
+            <P_2B>0/2023</P_2B>
+            <P_7>"1/2023"</P_7>
+            <P_8A>szt</P_8A>
+            <P_8B>1.00000</P_8B>
+            <P_9A>1.0</P_9A>
+            <P_9B>1000.0</P_9B>
+            <P_10A>1000.0</P_10A>
+            <P_11>1230.0</P_11>
+            <P_12>23</P_12>
+        </FacturaWiersz>
+        <FacturaWiersz>
+            <P_2B>1/2023</P_2B>
+            <P_7>"2/2023"</P_7>
+            <P_8A>szt</P_8A>
+            <P_8B>1.00000</P_8B>
+            <P_9A>1.0</P_9A>
+            <P_9B>1000.0</P_9B>
+            <P_10A>1000.0</P_10A>
+            <P_11>1230.0</P_11>
+            <P_12>23</P_12>
+        </FacturaWiersz>
+        <FacturaWiersz>
+            <P_2B>2/2023</P_2B>
+            <P_7>"2/2023"</P_7>
+            <P_8A>szt</P_8A>
+            <P_8B>1.00000</P_8B>
+            <P_9A>1.0</P_9A>
+            <P_9B>1000.0</P_9B>
+            <P_10A>1000.0</P_10A>
+            <P_11>1230.0</P_11>
+            <P_12>23</P_12>
+        </FacturaWiersz>
+    </FakturaWierszList>
+    <FakturaWierszCtrl/>
+</output>
