@@ -9,8 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Podmiot {
     @XmlElement(name = "tns:IdentyfikatorPodmiotu")
-    IdentyfikatorPodmiotu IdentyfikatorPodmiotu = new IdentyfikatorPodmiotu();
+    IdentyfikatorPodmiotu IdentyfikatorPodmiotu;
     @XmlElement(name = "tns:AdresPodmiotu")
-    AdresPodmiotu Adres = new AdresPodmiotu();
-
+    AdresPodmiotu Adres;
 }

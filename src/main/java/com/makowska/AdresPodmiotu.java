@@ -29,6 +29,8 @@ public class AdresPodmiotu {
         return Ulica + " " + NrDomu + "/" + NrLokalu + ", " + KodPocztowy + " " + Miejscowosc;
     }
 
+    AdresPodmiotu(){}
+
 }
 
 

@@ -52,16 +52,6 @@ public class Invoice {
         this.NIP = NIP;
     }
 
-//    /**
-//     * Method is responsible for adding item to the invoice.
-//     * @param item
-//     */
-//    public void addItem(Item item){
-//        this.itemList.add(item);
-//        this.netPriceSum += abs(BigDecimal.valueOf(item.getNetPrice()*item.getQuantity()).setScale(2, RoundingMode.HALF_UP).doubleValue());
-//        this.grossPriceSum += abs(BigDecimal.valueOf(item.getGrossPrice()*item.getQuantity()).setScale(2, RoundingMode.HALF_UP).doubleValue());
-//    }
-
     public String getInvoiceNumber() {
         return invoiceNumber;
     }

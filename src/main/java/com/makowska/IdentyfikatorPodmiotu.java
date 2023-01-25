@@ -13,4 +13,6 @@ public class IdentyfikatorPodmiotu {
     public static String NIP = "6762484560";
     @XmlElement(name = "etd:PelnaNazwa")
     public static String PelnaNazwa = "\"CORE LOGIC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ";
+
+    IdentyfikatorPodmiotu(){}
 }
